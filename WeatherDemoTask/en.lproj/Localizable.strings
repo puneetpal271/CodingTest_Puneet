@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  WeatherDemoTask
+
+  Created by Puneetpal Singh on 5/16/23.
+  
+*/
+
+"lbl_AppName"="Weather";
+
+//PLACEHODER
+
+"plc_Search_Bar"="Search address, city, country, zipcode";
+
+//TITLE
+
+"title_Nav_Bar_Weather"="Weather";
+
+
+//ALERT MESSEAGE
+
+"msg_location_Permission"="You have no permisiion to access the location. Go to Settings to enable Location Service.";
+"msg_NoInternet"="No internet connection.";
+
+
+//Button Title
+"btn_Setting" = "Settings";
+"btn_Dismiss" = "Dismiss";
+"btn_Retry" = "Retry";
+
+
+//LABEL Title
+"lbl_Min_temp" = "MIN TEMP";
+"lbl_Max_temp" = "MAX TEMP";
+"lbl_Sunrise" = "SUNRISE";
+"lbl_Sunset"="SUNSET";
+"lbl_Humidity"="HUMIDITY";
+"lbl_Feellike"="FEEL LIKE";
+"lbl_WithAutoComplete"="With Autocomplete";
+"lbl_WithoutAutoComplete"="Without Autocomplete";
+"lbl_NoDataFound"="Unable to found data.";
